@@ -56,6 +56,15 @@ The main software packages are available as a release:
 [Download Package](https://github.com/abubakarDanhaya/ML4CivilEngineers/releases)
 > _This release contains ZIP file of all the software package needed for Machine Learning journey_. 
 
+## ## 📹 Session Recordings
+
+## 📹 Session Recordings
+
+| Segment | Topic Covered                     | Recording |
+|---------|----------------------------------|-----------|
+| Getting Started       | Unlocking the power of AI  | ▶️ [Watch](https://studio.youtube.com/channel/UCOod7qW6VEkfnKMCWOwmBlA) |
+
+
 ## 💡 Contributions
 
 This repository is a collaborative effort! You can:
