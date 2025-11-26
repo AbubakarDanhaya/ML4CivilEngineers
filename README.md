@@ -61,7 +61,7 @@ The main software packages are available as a release:
 
 | Segment | Topic Covered                     | Recording |
 |---------|----------------------------------|-----------|
-| Getting Started       | Unlocking the power of AI  | ▶️ [Watch](https://studio.youtube.com/channel/UCOod7qW6VEkfnKMCWOwmBlA) |
+| Getting Started       | Unlocking the power of AI  | ▶️ [Watch](https://youtu.be/sgcKS1AgLWU?si=LxXt3ICPTSvnGvPf) |
 
 
 ## 💡 Contributions
