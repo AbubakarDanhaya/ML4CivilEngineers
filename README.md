@@ -50,6 +50,11 @@ Civil Engineering is evolving rapidly, and integrating ML/DL can **enhance desig
 2. Explore the folders: start from **Python Basics**, then move to ML, DL, and CV modules.
 3. Follow along with examples and exercises.
 4. Contribute your projects or improvements through **pull requests**.
+   
+## Release
+The main software packages are available as a release:
+[Download Package](https://github.com/abubakarDanhaya/ML4CivilEngineers/releases)
+> _This release contains ZIP file of all the software package needed for Machine Learning journey_. 
 
 ## 💡 Contributions
 
