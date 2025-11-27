@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/mL4CIVILCOVER.png" alt="ML4CivilEngineers Banner" width="100%">
+  <img src="Images/mL4CIVILCOVER.png" alt="ML4CivilEngineers Banner" width="400">
 </p>
 
 
