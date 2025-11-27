@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/ml4civilengineers.png" alt="ML4CivilEngineers Banner" style="width:100%; max-height:300px; object-fit:cover;">
+  <img src="images/ML4CIVILENGINEERS.png" alt="ML4CivilEngineers Banner" style="width:100%; max-height:300px; object-fit:cover;">
 </p>
 
 
