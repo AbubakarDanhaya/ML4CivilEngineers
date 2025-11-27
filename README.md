@@ -60,7 +60,7 @@ The main software packages are available as a release:
 ## 📹 Session Recordings
 
 | Segment | Topic Covered                     | Recording | Slide |
-|---------|----------------------------------|-----------|
+|---------|----------------------------------|-----------|---------|
 | Getting Started       | Unlocking the power of AI  | ▶️ [Watch](https://youtu.be/sgcKS1AgLWU?si=LxXt3ICPTSvnGvPf) | [Slide](https://github.com/AbubakarDanhaya/ML4CivilEngineers/blob/main/Unlocking_power_of_AI.pdf) |
 
 
