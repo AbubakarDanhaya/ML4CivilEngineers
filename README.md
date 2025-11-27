@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Images/mL4CIVILCOVER.png" alt="ML4CivilEngineers Banner" width="100%">
+</p>
+
+
+
 # ML4CivilEngineers
 
 Welcome to **ML4CivilEngineers**! 🚀
