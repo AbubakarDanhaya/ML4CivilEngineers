@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="Images/ML4CIVILENGINEERS.png" alt="ML4CIVILENGINEERS Banner" width="100%">
+  <img src="images/ml4civilengineers.png" alt="ML4CivilEngineers Banner" style="width:100%; max-height:300px; object-fit:cover;">
 </p>
-
 
 
 # ML4CivilEngineers
