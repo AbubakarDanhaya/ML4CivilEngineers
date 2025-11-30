@@ -67,7 +67,7 @@ The main software packages are available as a release:
 | Week | Segment |Date | Topic Covered              | Recording | Slide | Notebook| Assignment|
 |------|------|---------|----------------------------|-----------|-------|---------|----------|
 | 1 | Getting Started | 22nd November, 2025 | Unlocking the power of AI | ▶️ [Watch](https://youtu.be/sgcKS1AgLWU?si=LxXt3ICPTSvnGvPf) | [Slide](https://github.com/AbubakarDanhaya/ML4CivilEngineers/blob/main/Unlocking_power_of_AI.pdf)| Nill |
-| 2 |     | 29th November, 2025 | How to Set up a Python Environment for Data Science and Machine learning | | [slide](python_set_up.pdf) | || Create a Github Account |
+| 2 |     | 29th November, 2025 | How to Set up a Python Environment for Data Science and Machine learning | ▶️ [Watch](https://youtu.be/6uJeweslV0c) | [Slide](python_set_up.pdf) | || Create a Github Account |
 || | 30th November, 2025 | How to Use Markdown for Engineering Documentation and Github Projets | Pending 
 
 
