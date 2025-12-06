@@ -3,6 +3,18 @@
 
 > **Markdown** is a lightweight markup language used to format text. It is commonly used for writing docs, creating rich text, and even formatting comments online.
 
+## `Formating Text Span`
+Surround text with a single asterisk or underscore for emphasis (italics)
+
+- She studied *B.ENG CIVIL*
+
+- She studied _B.Eng civil_
+
+Surround text with double asterisks or underscore yo make it bold 
+
+to **boldly** go
+
+
 `Headings`
 # Engineering
 ## Civil Engineering
