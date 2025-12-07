@@ -16,9 +16,9 @@ to **boldly** go
 
 
 `Headings`
-# Engineering
-## Civil Engineering
-### Structural Engineering 
+# Engineering (Header 1)
+## Civil Engineering (Header 2)
+### Structural Engineering (Header 3)
 
 
 ## `List`
@@ -45,6 +45,11 @@ The following are the ingredients of concrete.
 - [x] Course Aggreagates
 - [ ] Steel
   
+## How to write an LaTex equations
+Surround text with a single dollar sign
+
+$e^{\pi i} + 1 = 0$
+
   ## The End
 
 
