@@ -70,6 +70,7 @@ The main software packages are available as a release:
 | 2 |     | 29th November, 2025 | How to Set up a Python Environment for Data Science and Machine learning | ▶️ [Watch](https://youtu.be/6uJeweslV0c) | [Slide](python_set_up.pdf) | || Create a Github Account |
 | 3 | | 6th December, 2025 | Introduction to Markdown for Civil Engineers | ▶️ [Watch](https://youtu.be/mLju9hUPsdI)||[notebook](Getting-started/Introduction_to_markdown.md)
 ||| 7th December, 2025| How to Use Markdown for Engineering Documentation and Github Project | ▶️ [Watch](https://youtu.be/Nyi6f4lczgM) || [notebook](Getting-started/Advanced_markdown.md)
+|4 | Python Basics | 21st December, 2025 | Python Variables | ▶️ [Watch](https://youtu.be/3IMoSainXf0)||[notebook](Python-Basics/variable.ipynb)
 
 
 
