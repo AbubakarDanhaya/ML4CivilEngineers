@@ -72,7 +72,7 @@ The main software packages are available as a release:
 ||| 7th December, 2025| How to Use Markdown for Engineering Documentation and Github Project | ▶️ [Watch](https://youtu.be/Nyi6f4lczgM) || [notebook](Getting-started/Advanced_markdown.md)
 |4 | Python Basics | 21st December, 2025 | Python Variables | ▶️ [Watch](https://youtu.be/3IMoSainXf0)||[notebook](Python-Basics/variable.ipynb)
 |||22nd December, 2025| Strings Methods in Python| ▶️ [Watch1](https://youtu.be/PkuVQOU4vqw?si=0TOLYhggdPTLrgC7) <br> ▶️ [Watch2](https://youtu.be/OoLvOOV9xVs?si=TGZKAwNk8hz_Bj41)||[notebook](Python-Basics/strings.ipynb)
-|5|| 29th December, 2025 |Introduction to Python List| ▶️ [Watch1](https://youtu.be/4FO80YFkub4?si=hV9g2Nn32x-_JiQ5)<br> ▶️ [Watch2](https://youtu.be/7ATlgEo8SdU?si=48ChIzet9pP5Lt-c)|| [notebook](Python-Basics/list.ipynb)|
+|5|| 29th December, 2025 |Introduction to Python List| ▶️ [Watch1](https://youtu.be/4FO80YFkub4?si=hV9g2Nn32x-_JiQ5)<br> ▶️ [Watch2](https://youtu.be/7ATlgEo8SdU?si=48ChIzet9pP5Lt-c)|| [notebook](Python-Basics/list.ipynb)| [assignment](Python-Basics/Assignments/list.md)|
 
 
 
