@@ -74,7 +74,7 @@ The main software packages are available as a release:
 |||22nd December, 2025| Strings Methods in Python| ▶️ [Watch1](https://youtu.be/PkuVQOU4vqw?si=0TOLYhggdPTLrgC7) <br> ▶️ [Watch2](https://youtu.be/OoLvOOV9xVs?si=TGZKAwNk8hz_Bj41)||[notebook](Python-Basics/strings.ipynb)
 |5|| 29th December, 2025 |Introduction to Python List| ▶️ [Watch1](https://youtu.be/4FO80YFkub4?si=hV9g2Nn32x-_JiQ5)<br> ▶️ [Watch2](https://youtu.be/7ATlgEo8SdU?si=48ChIzet9pP5Lt-c)|| [notebook](Python-Basics/list.ipynb)| [assignment](Python-Basics/Assignments/list.md)|
 |6|| 11th January, 2026| Working with Python List| ▶️ [Watch](https://youtu.be/N86E9KMQjCs)|| [notebook](Python-Basics/working_with_list.ipynb)| [assignment](Python-Basics/Assignments/list_with_for_loop.md)|
-|7|| 17th January, 2026| Slicing in Python||| [notebook](Python-Basics/slicing.ipynb)|
+|7|| 17th January, 2026| Slicing in Python|▶️ [Watch](https://youtu.be/mJu2qgsW_gw)|| [notebook](Python-Basics/slicing.ipynb)| 
 
 
 
