@@ -76,6 +76,7 @@ The main software packages are available as a release:
 |6|| 11th January, 2026| Working with Python List| ▶️ [Watch](https://youtu.be/N86E9KMQjCs)|| [notebook](Python-Basics/working_with_list.ipynb)| [assignment](Python-Basics/Assignments/list_with_for_loop.md)|
 |7|| 17th January, 2026| Slicing in Python|▶️ [Watch](https://youtu.be/mJu2qgsW_gw)|| [notebook](Python-Basics/slicing.ipynb)| 
 ||| 18th January, 2026| Introduction to Tuples in Python|▶️ [Watch](https://youtu.be/4kL_7yw5KSg)|| [notebook](Python-Basics/intro_tuples.ipynb)|
+|8|| 24th January, 2026| List Comprehension|||[notebook](Python-Basics/list_comprehension.ipynb)
 
 
 
