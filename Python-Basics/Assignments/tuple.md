@@ -1,5 +1,5 @@
 # ASSIGNMENT
-**Topic: Introduction to Python List**
+**Topic: Tuples in Python**
 
 **Instruction: Please try to submit your assignment before next week**.
 
