@@ -77,6 +77,7 @@ The main software packages are available as a release:
 |7|| 17th January, 2026| Slicing in Python|▶️ [Watch](https://youtu.be/mJu2qgsW_gw)|| [notebook](Python-Basics/slicing.ipynb)| 
 ||| 18th January, 2026| Introduction to Tuples in Python|▶️ [Watch](https://youtu.be/4kL_7yw5KSg)|| [notebook](Python-Basics/intro_tuples.ipynb)|
 |8|| 24th January, 2026| List Comprehension|||[notebook](Python-Basics/list_comprehension.ipynb)
+||| 25th January, 2026| Conditional Statements|||[notebook](Python-Baics/conditionals.ipynb)
 
 
 
