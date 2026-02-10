@@ -79,6 +79,7 @@ The main software packages are available as a release:
 |8|| 24th January, 2026| List Comprehension|▶️ [Watch1](https://youtu.be/qxm0FTkGbgs)||[notebook](Python-Basics/list_comprehension.ipynb)| [assignment](Python-Basics/Assignments/list_comprehension.md)
 ||| 25th January, 2026| Conditional Statements|▶️ [Watch1](https://youtu.be/VfdVrL2LA84) <br> ▶️ [Watch2](https://youtu.be/GMYZYSi-q7w)||[notebook](Python-Basics/conditionals.ipynb)
 |9||10th Febuary, 2026| Introduction to Dictionary|||[notebook](Python-Basics/dictionary.ipynb)|
+|||11th Febuary, 2026| Introduction to While Loop| 
 
 
 
